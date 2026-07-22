@@ -1,0 +1,11 @@
+uname -a
+
+cat /etc/os-release
+
+whoami
+
+hostname
+
+lscpu
+
+df -h
